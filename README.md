@@ -2,7 +2,7 @@
 
 Desenvolvedor frontend. / *Frontend developer.*
 
-São Paulo, Brasil. /*Sao Paulo, Brazil.*
+São Paulo, Brasil. / *Sao Paulo, Brazil.*
 
 ### Contato / *Contact*
 Email: atmonello@gmail.com 
