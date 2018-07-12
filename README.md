@@ -38,7 +38,7 @@ Janeiro/2018 - Atual
 - **Perugluglu SCORMer**
   - Link: https://github.com/atmonello/perugluglu-scormer
   - Descrição: Um projetinho bem pequeno "open source" que criei para facilitar a implementação de SCORM nos projetos da Perugluglu.
-  - *Description: Very small "open source" project that I created to make it easier to implement SCORM into Perugluglu projects.
+  - *Description: Very small "open source" project that I created to make it easier to implement SCORM into Perugluglu projects.*
   
 - **Editora Moderna - EAD**
   - Link: http://perugluglu.net/moderna/moderna_ead_2_1/
