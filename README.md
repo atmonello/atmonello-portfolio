@@ -46,6 +46,7 @@ Agosto/2018 - Atual
 *August/2018 - Current*
 
 Atualmente trabalhando em nova versão do produto acessado pelos clientes, utilizando VueJS e Scrum.
+
 *Currently developing a new version of the products used by our customers, using VueJS and Scrum*
   
 ## Perugluglu Interactive - http://perugluglu.net/
