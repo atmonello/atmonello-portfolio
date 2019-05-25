@@ -22,6 +22,16 @@ LinkedIn: https://www.linkedin.com/in/atmonello
   - Descrição: Teste admissional usando VueJS.
   - *Description: Admission test using VueJS.*
   
+- **CSS Grid Test**
+  - Link: https://github.com/atmonello/css-grid-teste
+  - Descrição: Teste admissional usando VueJS, GraphQL e CSS Grid.
+  - *Description: Admission test using VueJS, GraphQL and CSS Grid.*
+  
+- **R7 Front-end Test**
+  - Link: https://github.com/atmonello/frontend-test
+  - Descrição: Teste admissional trabalhando com Handlebars, LESS e WebPack 4.
+  - *Description: Admission test working with Handlebars, LESS and WebPack 4.*
+  
 - **Gulp base**
   - Link: https://github.com/atmonello/base-gulp
   - Descrição: Base que utilizo para rodar meus projetos com Gulp, compilando SASS e usando BrowserSync.
@@ -34,6 +44,9 @@ Desenvolvedor Front-end - *Front-end Developer*
 Agosto/2018 - Atual
 
 *August/2018 - Current*
+
+Atualmente trabalhando em nova versão do produto acessado pelos clientes, utilizando VueJS e Scrum.
+*Currently developing a new version of the products used by our customers, using VueJS and Scrum*
   
 ## Perugluglu Interactive - http://perugluglu.net/
 
