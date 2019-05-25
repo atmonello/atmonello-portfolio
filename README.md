@@ -1,6 +1,6 @@
 # Portfolio - Andre Monello
 
-Desenvolvedor frontend. / *Frontend developer.*
+Desenvolvedor front-end. / *Front-end developer.*
 
 São Paulo, Brasil. / *Sao Paulo, Brazil.*
 
@@ -12,7 +12,7 @@ LinkedIn: https://www.linkedin.com/in/atmonello
 
 ## Projetos pessoais / *Personal work*
 
-- **Itelios Frontend Challenge**
+- **Itelios Front-end Challenge**
   - Link: https://github.com/atmonello/itelios-frontend-challenge
   - Descrição: Teste admissional realizado utilizando HTML, CSS e vanilla JavaScript.
   - *Description: Admission test using HTML, CSS and JavaScript.*
@@ -27,13 +27,25 @@ LinkedIn: https://www.linkedin.com/in/atmonello
   - Descrição: Base que utilizo para rodar meus projetos com Gulp, compilando SASS e usando BrowserSync.
   - *Description: Gulp setup that I use on my projects to compile SASS files and run BrowserSync plugin.*
   
+## Listo Tecnologia - https://www.soulisto.com.br/
+
+Desenvolvedor Front-end - *Front-end Developer*
+
+Agosto/2018 - Atual
+
+*August/2018 - Current*
+  
 ## Perugluglu Interactive - http://perugluglu.net/
 
-Desenvolvedor Frontend Junior - *Junior Frontend Developer*
+Desenvolvedor Front-end Junior - *Junior Front-end Developer*
 
-Janeiro/2018 - Atual
+Janeiro/2018 - Julho/2018
 
-*January/2018 - Current*
+*January/2018 - July/2018*
+
+Atualmente trabalhando em uma nova versão do produto utilizado pelos clientes da empresa, desenvolvido em Vue JS e seguindo framework Scrum.
+
+*Currently working on the new version of the product offered to our customers, being developed on Vue JS and following Scrum framework.*
 
 - **Perugluglu SCORMer**
   - Link: https://github.com/atmonello/perugluglu-scormer
