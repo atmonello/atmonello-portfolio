@@ -37,13 +37,25 @@ LinkedIn: https://www.linkedin.com/in/atmonello
   - Descrição: Base que utilizo para rodar meus projetos com Gulp, compilando SASS e usando BrowserSync.
   - *Description: Gulp setup that I use on my projects to compile SASS files and run BrowserSync plugin.*
   
+## Portal R7.com - https://r7.com
+
+Desenvolvedor Front-end - *Front-end Developer*
+
+Julho/2019 - Atual
+
+*July/2019 - Current*
+
+Manutenção e desenvolvimento de aplicações em Ruby on Rails, StencilJS, React e JavaScript.
+
+*Maintenance and developing applications with Ruby on Rails, StencilJS, React and vanilla JS.*
+  
 ## Listo Tecnologia - https://www.soulisto.com.br/
 
 Desenvolvedor Front-end - *Front-end Developer*
 
-Agosto/2018 - Atual
+Agosto/2018 - Julho/2019
 
-*August/2018 - Current*
+*August/2018 - July/2019*
 
 Atualmente trabalhando em nova versão do produto acessado pelos clientes, utilizando VueJS e Scrum.
 
@@ -57,9 +69,11 @@ Janeiro/2018 - Julho/2018
 
 *January/2018 - July/2018*
 
-Atualmente trabalhando em uma nova versão do produto utilizado pelos clientes da empresa, desenvolvido em Vue JS e seguindo framework Scrum.
+Desenvolvimento de jogos educativos e material de educação corporativa usando HTML5, JavaScript e bibliotecas de terceiros.
 
-*Currently working on the new version of the product offered to our customers, being developed on Vue JS and following Scrum framework.*
+*Development of educational games and corporate education using HTML5, JavaScript and third party libraries.*
+
+### Trabalhos realizados - *Worked on:*
 
 - **Perugluglu SCORMer**
   - Link: https://github.com/atmonello/perugluglu-scormer
