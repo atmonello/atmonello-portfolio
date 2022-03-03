@@ -12,6 +12,11 @@ LinkedIn: https://www.linkedin.com/in/atmonello
 
 ## Projetos pessoais / *Personal work*
 
+- **ZAP Front-end Challenge**
+  - Link: https://github.com/atmonello/base-gulp
+  - Descrição: Teste admissional usando Nuxt.
+  - *Description: Admission test using Nuxt.*
+
 - **Itelios Front-end Challenge**
   - Link: https://github.com/atmonello/itelios-frontend-challenge
   - Descrição: Teste admissional realizado utilizando HTML, CSS e vanilla JavaScript.
@@ -36,14 +41,26 @@ LinkedIn: https://www.linkedin.com/in/atmonello
   - Link: https://github.com/atmonello/base-gulp
   - Descrição: Base que utilizo para rodar meus projetos com Gulp, compilando SASS e usando BrowserSync.
   - *Description: Gulp setup that I use on my projects to compile SASS files and run BrowserSync plugin.*
+
+## RTB House - https://www.rtbhouse.com/
+
+Technical Solutions Engineer
+
+Fev/2020 - Atual
+
+*Feb/2020 - Current*
+
+Desenvolvimento de ferramentas e plataformas e construção de soluções para demandas de clientes usando JavaScript, Nuxt, PostgreSQL e Node.js.
+
+*Development of tools and platforms and building solutions for clients' demands using JavaScript, Nuxt, PostgreSQL and Node.js.*
   
 ## Portal R7.com - https://r7.com
 
 Desenvolvedor Front-end - *Front-end Developer*
 
-Julho/2019 - Atual
+Julho/2019 - Fev/2020
 
-*July/2019 - Current*
+*July/2019 - Feb/2020*
 
 Manutenção e desenvolvimento de aplicações em Ruby on Rails, StencilJS, React e JavaScript.
 
@@ -72,25 +89,3 @@ Janeiro/2018 - Julho/2018
 Desenvolvimento de jogos educativos e material de educação corporativa usando HTML5, JavaScript e bibliotecas de terceiros.
 
 *Development of educational games and corporate education using HTML5, JavaScript and third party libraries.*
-
-### Trabalhos realizados - *Worked on:*
-
-- **Perugluglu SCORMer**
-  - Link: https://github.com/atmonello/perugluglu-scormer
-  - Descrição: Um projetinho bem pequeno "open source" que criei para facilitar a implementação de SCORM nos projetos da Perugluglu.
-  - *Description: Very small "open source" project that I created to make it easier to implement SCORM into Perugluglu projects.*
-  
-- **Editora Moderna - EAD**
-  - Link: http://perugluglu.net/moderna/moderna_ead_2_1/
-  - Descrição: Projeto de EAD utilizando HTML, CSS e JS. Nesse projeto, também iniciamos a produção de um framework interno para criação de cursos EAD, no qual também estou envolvido.
-  - *Description: eLearning project using HTML, CSS and JS. For this project, we also started developing a proprietary framework to create eLearning projects*
-  
-- **Instituto Phorte - Leitura e Produção de Texto**
-  - Link: http://perugluglu.net/instituto_phorte/ead/leitura_e_producao_de_texto/
-  - Descrição: Outro curso EAD, também utilizando nosso framework.
-  - *Description: Another eLearning project, also using our framework*
-  
-- **Instituto Singularidades - Municípios Multi/Bilíngues**
-  - Link: http://perugluglu.net/showcase/data/projects/instituto_singularidades__municipios_multibilingues/
-  - Descrição: Nesse projeto eu fui responsável pela integração com SCORM (para rodar em plataformas de e-learning) e responsividade.
-  - *Description: For this project, I implemented SCORM functionality and also responsiveness using SASS*
