@@ -1,16 +1,16 @@
 # Portfolio - Andre Monello
 
-Desenvolvedor front-end. / *Front-end developer.*
+Desenvolvedor front-end. *Front-end developer.*
 
-São Paulo, Brasil. / *Sao Paulo, Brazil.*
+São Paulo, Brasil. *Sao Paulo, Brazil.*
 
-### Contato / *Contact*
+### Contato *Contact*
 Email: atmonello@gmail.com 
 
 LinkedIn: https://www.linkedin.com/in/atmonello
 
 
-## Projetos pessoais / *Personal work*
+## Projetos pessoais *Personal work*
 
 - **ZAP Front-end Challenge**
   - Link: https://github.com/atmonello/base-gulp
@@ -42,7 +42,8 @@ LinkedIn: https://www.linkedin.com/in/atmonello
   - Descrição: Base que utilizo para rodar meus projetos com Gulp, compilando SASS e usando BrowserSync.
   - *Description: Gulp setup that I use on my projects to compile SASS files and run BrowserSync plugin.*
 
-## RTB House - https://www.rtbhouse.com/
+## Experiência profissional *Work experience*
+### RTB House - https://www.rtbhouse.com/
 
 Technical Solutions Engineer
 
@@ -54,7 +55,7 @@ Desenvolvimento de ferramentas e plataformas e construção de soluções para d
 
 *Development of tools and platforms and building solutions for clients' demands using JavaScript, Nuxt, PostgreSQL and Node.js.*
   
-## Portal R7.com - https://r7.com
+### Portal R7.com - https://r7.com
 
 Desenvolvedor Front-end - *Front-end Developer*
 
@@ -66,7 +67,7 @@ Manutenção e desenvolvimento de aplicações em Ruby on Rails, StencilJS, Reac
 
 *Maintenance and developing applications with Ruby on Rails, StencilJS, React and vanilla JS.*
   
-## Listo Tecnologia - https://www.soulisto.com.br/
+### Listo Tecnologia - https://www.soulisto.com.br/
 
 Desenvolvedor Front-end - *Front-end Developer*
 
@@ -78,7 +79,7 @@ Atualmente trabalhando em nova versão do produto acessado pelos clientes, utili
 
 *Currently developing a new version of the products used by our customers, using VueJS and Scrum*
   
-## Perugluglu Interactive - http://perugluglu.net/
+### Perugluglu Interactive - http://perugluglu.net/
 
 Desenvolvedor Front-end Junior - *Junior Front-end Developer*
 
